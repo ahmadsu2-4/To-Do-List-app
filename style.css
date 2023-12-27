@@ -38,12 +38,13 @@ padding: 10px;
     padding-left: 20px;
     margin-bottom: 30px;
     margin-top:50px;
+    background: #73737316;
 } 
 .row input{
     flex:1;
     border:none;
     outline:none;
-    background: #73737316;
+    background-color: transparent;
     padding: 30px ;
     border-radius: 20px;    
     font-size:39px;
